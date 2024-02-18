@@ -1,0 +1,8 @@
+Agenda
+
+1 - Setup remote git repo 
+a) new environment
+b) requirements.txt
+c) setup.py'
+
+2 - Src folder and build package
