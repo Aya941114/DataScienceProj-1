@@ -19,9 +19,6 @@ def get_requirements(file_path:str)->List[str]:
 
   return requirements
 
-
-  
-
 setup(
   name='DSproject-1',
   version='0.0.1',
